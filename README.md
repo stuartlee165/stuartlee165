@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Stuart a junior data scientist
+- 👋 Hi, I’m Stuart a Junior Data Scientist
 - 👀 I’m interested in finding new applications for machine learning techniques
 - 🌱 I recently graduated from a 12 week intensive data science course with General Assembly
