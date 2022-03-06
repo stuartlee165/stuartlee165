@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Stuart a Junior Data Scientist
-- 👀 I’m interested in finding new applications for machine learning techniques
+- 👀 I’m interested in using data science and machine learning for social good
 - 🌱 I am a graduate of the General Assembly Data Science Immersive course
