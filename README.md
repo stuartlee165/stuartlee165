@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Stuart a Data Scientist
-- 👀 I’m interested in applying data science and machine learning to novel applications
+- 👋 Hi, I’m Stuart
